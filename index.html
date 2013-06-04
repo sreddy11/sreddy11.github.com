@@ -1,0 +1,26 @@
+---
+layout: default
+title: Viget Summer Intern Blog 2013
+---
+
+
+
+
+<section role="banner">
+  <img src="/images/banner.jpg" />
+  </section>
+   
+  <section class="content">
+  <p>
+  I'm so cool that I have a blog. You should totally read it.
+        </p> 
+        <div id="home">
+
+          <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  </div>
