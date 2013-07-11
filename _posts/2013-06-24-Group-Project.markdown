@@ -1,9 +1,7 @@
 ---
 layout: post
-title:  ""
+title:  "Group project"
 date:   2013-06-24 2:16:50
-categories: jekyll update
-published: false
 ---
 
 Today I started doing some work for the group project. I have definitely been behind my teammates in how much how I have put into it (they 
