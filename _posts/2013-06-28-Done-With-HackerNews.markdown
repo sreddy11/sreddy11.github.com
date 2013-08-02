@@ -2,7 +2,6 @@
 layout: post
 title:  "Done with HackerNews"
 date:   2013-06-28 2:16:50
-categories: jekyll update
 ---
 
 July 30, 1969 was a truly historic day that marked one step for man, one giant leap for mankind, surely a day one

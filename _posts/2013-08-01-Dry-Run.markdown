@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Dry Run"
+date:   2013-08-01 2:16:50
+---
+
+Sadly, today I did not get to do much coding. Today mostly consisited of minor touch-ups to the group project and 
+preparing a presentation to demo the app tommorow during LabShare. We nailed down the timing of the project and it 
+looks really good. Very excited for tomorrow!
+
+On the individual porject front, I would say I have been falling behind a bit due to shifting focus to the group 
+project. However, I am sure I can have something good to demo on Wednesday, so get read devs.
+
+Intern out.
